@@ -42,15 +42,15 @@
 
      본선진출
      
-대용량 시계열 데이터 처리: 1TB 규모 LDAPS/SCADA 데이터 전처리 (결측/이상치 처리, 메모리 최적화, Parquet 변환)  
-모델 개발 및 평가: XGBoost·LSTM 기반 풍력 발전량 예측 모델 구현, MAE·nMAE·RMSE 활용 성능 검증  
-실시간 파이프라인 설계: Spark → Kafka → DB 저장 구조 구상 및 스트리밍 아키텍처 설계  
+- 대용량 시계열 데이터 처리: 1TB 규모 LDAPS/SCADA 데이터 전처리 (결측/이상치 처리, 메모리 최적화, Parquet 변환)  
+- 모델 개발 및 평가: XGBoost·LSTM 기반 풍력 발전량 예측 모델 구현, MAE·nMAE·RMSE 활용 성능 검증  
+- 실시간 파이프라인 설계: Spark → Kafka → DB 저장 구조 구상 및 스트리밍 아키텍처 설계  
 
 
 ### [5] 전공 블로그 & 최신 기술 트랜드(반도쳬) 카드뉴스 제작
 
-전공 블로그 : 링크 : https://blog.naver.com/sinstar0823
+- 전공 블로그 : 링크 : https://blog.naver.com/sinstar0823
 
-인스타 아이디 : the_lord_of_semiconductor
+- 인스타 아이디 : the_lord_of_semiconductor
 : 팔로워 600, 29편 게시물
 
